@@ -1,0 +1,351 @@
+<shiftBackgroundY>
+    <val_0>258.000000</val_0>
+</shiftBackgroundY>
+<projectionShift>
+    <val_0>78.000000</val_0>
+</projectionShift>
+<topMaskY>
+    <val_0>0.000000</val_0>
+</topMaskY>
+<cc>
+    <val_0>0.000000</val_0>
+</cc>
+<briVal>
+    <val_0>1.000000</val_0>
+</briVal>
+<conVal>
+    <val_0>1.000000</val_0>
+</conVal>
+<satVal>
+    <val_0>1.000000</val_0>
+</satVal>
+<gamma>
+    <val_0>1.000000</val_0>
+</gamma>
+<repelScaleDist>
+    <val_0>2.833333</val_0>
+</repelScaleDist>
+<repelScaleAmount>
+    <val_0>0.485000</val_0>
+</repelScaleAmount>
+<shiftFieldY>
+    <val_0>-142.222229</val_0>
+</shiftFieldY>
+<minDist>
+    <val_0>50.000000</val_0>
+</minDist>
+<maxDist>
+    <val_0>300.000000</val_0>
+</maxDist>
+<PAN_MODE>
+    <val_0>0.000000</val_0>
+</PAN_MODE>
+<CV_MODE>
+    <val_0>0.000000</val_0>
+</CV_MODE>
+<volume>
+    <val_0>1.000000</val_0>
+</volume>
+<flipVideoH>
+    <val_0>0</val_0>
+</flipVideoH>
+<flipVideoV>
+    <val_0>0</val_0>
+</flipVideoV>
+<GRAB_BACKGROUND>
+    <val_0>0.000000</val_0>
+</GRAB_BACKGROUND>
+<threshold>
+    <val_0>17.000000</val_0>
+</threshold>
+<kinectNear>
+    <val_0>200.000000</val_0>
+</kinectNear>
+<kinectFar>
+    <val_0>50.000000</val_0>
+</kinectFar>
+<minMaskY>
+    <val_0>0.000000</val_0>
+</minMaskY>
+<maxMaskY>
+    <val_0>481.000000</val_0>
+</maxMaskY>
+<minMaskX>
+    <val_0>0.000000</val_0>
+</minMaskX>
+<maxMaskX>
+    <val_0>640.000000</val_0>
+</maxMaskX>
+<smartThresh>
+    <val_0>0.000000</val_0>
+</smartThresh>
+<minBlobSize>
+    <val_0>168.633347</val_0>
+</minBlobSize>
+<leftComp>
+    <val_0>100.000000</val_0>
+</leftComp>
+<rightComp>
+    <val_0>-100.000000</val_0>
+</rightComp>
+<topComp>
+    <val_0>212.000000</val_0>
+</topComp>
+<bottomComp>
+    <val_0>200.000000</val_0>
+</bottomComp>
+<numSegments>
+    <val_0>4</val_0>
+</numSegments>
+<smoothAmnt>
+    <val_0>9.61111</val_0>
+</smoothAmnt>
+<smoothThresh>
+    <val_0>111</val_0>
+</smoothThresh>
+<skelThresh>
+    <val_0>5.66667</val_0>
+</skelThresh>
+<skelThresh2>
+    <val_0>1</val_0>
+</skelThresh2>
+<skelHandBlur>
+    <val_0>7.22222</val_0>
+</skelHandBlur>
+<backHandCuttof>
+    <val_0>-6</val_0>
+</backHandCuttof>
+<thumbMaxY>
+    <val_0>1.19833</val_0>
+</thumbMaxY>
+<thumbAngleThresh>
+    <val_0>82</val_0>
+</thumbAngleThresh>
+<thresholdCam>
+    <val_0>55.250000</val_0>
+</thresholdCam>
+<grabBackground>
+    <val_0>0.000000</val_0>
+</grabBackground>
+<flipCamVideoH>
+    <val_0>0.000000</val_0>
+</flipCamVideoH>
+<flipCamVideoV>
+    <val_0>0.000000</val_0>
+</flipCamVideoV>
+<thumbAngleThresh2>
+    <val_0>2.42167</val_0>
+</thumbAngleThresh2>
+<avgThumbLen>
+    <val_0>0.087</val_0>
+</avgThumbLen>
+<thumbAngleThresh2Inner>
+    <val_0>1.97944</val_0>
+</thumbAngleThresh2Inner>
+<handNumPts>
+    <val_0>7.2</val_0>
+</handNumPts>
+<handPostBlurThresh>
+    <val_0>182.75</val_0>
+</handPostBlurThresh>
+<handContourSmooth>
+    <val_0>15.3722</val_0>
+</handContourSmooth>
+<minArmLength>
+    <val_0>140.333</val_0>
+</minArmLength>
+<elbowSmooth>
+    <val_0>0.266667</val_0>
+</elbowSmooth>
+<shoulderSmooth>
+    <val_0>0.261111</val_0>
+</shoulderSmooth>
+<wristSmooth>
+    <val_0>0.244444</val_0>
+</wristSmooth>
+<maxPercentInPoly>
+    <val_0>0.6</val_0>
+</maxPercentInPoly>
+<showTrackerDebug>
+    <val_0>0.000000</val_0>
+</showTrackerDebug>
+<dropAngleStart>
+    <val_0>-21.500000</val_0>
+</dropAngleStart>
+<dropAngleEnd>
+    <val_0>-70.500000</val_0>
+</dropAngleEnd>
+<dropAngleEndScale>
+    <val_0>0.355556</val_0>
+</dropAngleEndScale>
+<clipMin>
+    <val_0>88.8889</val_0>
+</clipMin>
+<clipMax>
+    <val_0>184.444</val_0>
+</clipMax>
+<peakSkipAllowedForArm>
+    <val_0>4</val_0>
+</peakSkipAllowedForArm>
+<peakSkipAllowedForHand>
+    <val_0>4</val_0>
+</peakSkipAllowedForHand>
+<eatRadComp>
+    <val_0>1.135556</val_0>
+</eatRadComp>
+<particleforceComp>
+    <val_0>1.833333</val_0>
+</particleforceComp>
+<particleAttractRad>
+    <val_0>232.500000</val_0>
+</particleAttractRad>
+<timeToBall>
+    <val_0>1.811667</val_0>
+</timeToBall>
+<foodPHoverTime>
+    <val_0>16.000000</val_0>
+</foodPHoverTime>
+<foodPRepelForce>
+    <val_0>2.055556</val_0>
+</foodPRepelForce>
+<elbowStraightAngle>
+    <val_0>8.000000</val_0>
+</elbowStraightAngle>
+<elbowBentAngle>
+    <val_0>80.000000</val_0>
+</elbowBentAngle>
+<shoulderRetreatMinVal>
+    <val_0>20.000000</val_0>
+</shoulderRetreatMinVal>
+<shoulderRetreatMaxVal>
+    <val_0>-70.000000</val_0>
+</shoulderRetreatMaxVal>
+<stretchMin>
+    <val_0>0.600000</val_0>
+</stretchMin>
+<stretchMax>
+    <val_0>2.122667</val_0>
+</stretchMax>
+<blobFurthestThresh>
+    <val_0>0.230000</val_0>
+</blobFurthestThresh>
+<blobFurthestYFactor>
+    <val_0>0.253333</val_0>
+</blobFurthestYFactor>
+<blobSpeedMin>
+    <val_0>0.300000</val_0>
+</blobSpeedMin>
+<blobSpeedMax>
+    <val_0>7.000000</val_0>
+</blobSpeedMax>
+<minCreatureHeadSpeed>
+    <val_0>0.500000</val_0>
+</minCreatureHeadSpeed>
+<maxCreatureHeadSpeed>
+    <val_0>16.000000</val_0>
+</maxCreatureHeadSpeed>
+<armsUpYVal>
+    <val_0>4.400000</val_0>
+</armsUpYVal>
+<armsUpXVal>
+    <val_0>4.000000</val_0>
+</armsUpXVal>
+<armsUpSkinnyVal>
+    <val_0>0.940000</val_0>
+</armsUpSkinnyVal>
+<armsUpLen>
+    <val_0>3.000000</val_0>
+</armsUpLen>
+<armsUpAngleWidth>
+    <val_0>33.633335</val_0>
+</armsUpAngleWidth>
+<perimRatio>
+    <val_0>1.096111</val_0>
+</perimRatio>
+<headCollideThreshN>
+    <val_0>0.500000</val_0>
+</headCollideThreshN>
+<headCollideRetreat>
+    <val_0>0.300000</val_0>
+</headCollideRetreat>
+<headCollideBumpFrc>
+    <val_0>1.800000</val_0>
+</headCollideBumpFrc>
+<peckRummageOdds>
+    <val_0>98.333336</val_0>
+</peckRummageOdds>
+<cloudScale>
+    <val_0>0.622222</val_0>
+</cloudScale>
+<blur_bounds_thresh>
+    <val_0>148.75</val_0>
+</blur_bounds_thresh>
+<minBlobSizePct>
+    <val_0>1</val_0>
+</minBlobSizePct>
+<maxBlobSizePct>
+    <val_0>2.15833</val_0>
+</maxBlobSizePct>
+<cloudReleaseFrc>
+    <val_0>7.413334</val_0>
+</cloudReleaseFrc>
+<cloudReleaseYFade>
+    <val_0>0.993333</val_0>
+</cloudReleaseYFade>
+<blobHandYCuttoff>
+    <val_0>1.090000</val_0>
+</blobHandYCuttoff>
+<foodForceDrag>
+    <val_0>0.726658</val_0>
+</foodForceDrag>
+<bFilterWhitePixels>
+    <val_0>1</val_0>
+</bFilterWhitePixels>
+<fireNumSecs>
+    <val_0>15.000000</val_0>
+</fireNumSecs>
+<LegRemoveYStartPct>
+    <val_0>0.7</val_0>
+</LegRemoveYStartPct>
+<LegRemoveYEndPct>
+    <val_0>0.9</val_0>
+</LegRemoveYEndPct>
+<LegRemoveYReducePct>
+    <val_0>0.85</val_0>
+</LegRemoveYReducePct>
+<kinectTopPt>
+    <val_0>0.15</val_0>
+</kinectTopPt>
+<kinectBotPt>
+    <val_0>0.45</val_0>
+</kinectBotPt>
+<kinectBotMax>
+    <val_0>0.55</val_0>
+</kinectBotMax>
+<particleVelBump>
+    <val_0>4.000000</val_0>
+</particleVelBump>
+<maxCloudTime>
+    <val_0>60.000000</val_0>
+</maxCloudTime>
+<cloudCheckX>
+    <val_0>100.000000</val_0>
+</cloudCheckX>
+<cloudCheckY>
+    <val_0>200.000000</val_0>
+</cloudCheckY>
+<purrTime>
+    <val_0>1.605556</val_0>
+</purrTime>
+<purrRad>
+    <val_0>219.777786</val_0>
+</purrRad>
+<purrMaxSpeedN>
+    <val_0>0.100000</val_0>
+</purrMaxSpeedN>
+<numMinutesReset>
+    <val_0>15.000000</val_0>
+</numMinutesReset>
+<sendOSC>
+    <val_0>1</val_0>
+</sendOSC>

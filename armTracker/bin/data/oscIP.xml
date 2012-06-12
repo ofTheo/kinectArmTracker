@@ -1,0 +1,4 @@
+/*  Uncomment to override the auto braodcast with the ip and port below
+<ip>192.168.1.1</ip>
+<port>9555</port>
+*/

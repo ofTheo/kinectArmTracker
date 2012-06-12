@@ -1,0 +1,1 @@
+Run the armTracker App first before running this app. 

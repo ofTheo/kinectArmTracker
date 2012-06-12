@@ -1,11 +1,11 @@
 kinectArmTracker
 ================
 Copyright Design I/O LLC 2011
-http://design-io.com - hello [-at–] design-io.com 
+http://design-io.com - hello [-at–] design-io.com - @design_io 
 
 ------ USAGE 
 Feel free to use this tool for your projects or prototypes.
-If you are interested in using it in a commercial context please contact: hello@design-io.com 
+If you are interested in using it in a commercial context please contact us. 
 Please do not use it to copy any existing projects from other artists/designers/companies ( including ourselves ). 
 Have fun with it! 
 

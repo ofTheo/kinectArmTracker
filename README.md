@@ -1,7 +1,7 @@
 kinectArmTracker
 ================
 Copyright Design I/O LLC 2011
-http://design-io.com - hello@design-io.com 
+http://design-io.com - hello [-at–] design-io.com 
 
 ------ USAGE 
 Feel free to use this tool for your projects or prototypes.
